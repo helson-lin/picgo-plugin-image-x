@@ -2,6 +2,7 @@
   "name": "picgo-plugin-imageX",
   "version": "1.0.0",
   "description": "火上引擎imageX图床插件",
+  "homepage": "https://gitee.com/hejianglin5521/picgo-plugin-image-x.git",
   "main": "src/index.js",
   "publishConfig": {
     "access": "public"
